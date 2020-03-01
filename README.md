@@ -2,6 +2,10 @@
 
 This is a repository to backup the phpfmt-next
 
+## Config Generator
+
+https://mlocati.github.io/php-cs-fixer-configurator/
+
 ## Plugins
 
 * [Sublime Text 2/3](https://github.com/phpfmt/sublime-phpfmt)
